@@ -1,5 +1,5 @@
 * { margin: 0; padding: 0; }
 
-.pictures img { width: 200px; }
-.pictures li { display: block; float: left; margin: 25px; }
-.pictures li:nth-child(4n+1) { clear: both; }
+.art img { width: 200px; }
+.art li { display: block; float: left; margin: 25px; }
+.art li:nth-child(4n+1) { clear: both; }
