@@ -1,5 +1,6 @@
 * { margin: 0; padding: 0; }
 
+
 .art img { width: 200px; }
 .art li { display: block; float: left; margin: 25px; }
 .art li:nth-child(4n+1) { clear: both; }
